@@ -29,16 +29,16 @@ Uploaded index.html and index.js along with Readme.
 
 ## [Screenshots](#screenshots)
 Index Page
-![Intro](/screenshots/01_Intro.jpg)
+![Intro](/screenshots/intro.png)
 
 Saving a new data
-![Saving a new Data](/screenshots/02_saveNew.jpg)
+![Saving a new Data](/screenshots/save.png)
 
 Updating a data
-![Updating a Data](/screenshots/03_updateOld.jpg)
+![Updating a Data](/screenshots/update.png)
 
 JPDB Database
-![The Database after Insertions](screenshots/04_Database.jpg)
+![The Database after Insertions](screenshots/database.png)
 
 ## About
 
