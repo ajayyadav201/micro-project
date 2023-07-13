@@ -2,7 +2,7 @@
 
 ## **[Project Management Form](#project-management-form)**   
 
-I Have selected Project Management Form as my Micro Project.  
+I have selected Project Management Form as my Micro Project.  
 ### [Description](#description) 
 Project Management Form that will store data in PROJECT-TABLE relation of COLLEGE-DB database.  
 **Input Fields:** {Project-ID, Project-Name, Assigned-To, Assignment-Date, Deadline}  
